@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an error caused by comparing an uninitialized variable to a string.  The script showcases the unexpected behavior of this comparison. The solution shows how to avoid this error by using defined() or explicitly initializing the variable.
